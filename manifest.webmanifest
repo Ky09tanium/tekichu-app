@@ -1,0 +1,10 @@
+{
+  "name": "的中率カウンター",
+  "short_name": "的中率",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#666666"
+}
